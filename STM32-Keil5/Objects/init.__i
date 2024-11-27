@@ -1,0 +1,6 @@
+--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\Libraries -I .\Hardware
+-I.\RTE\_Target_1
+-IF:\c51\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-IF:\c51\ARM\CMSIS\Include
+-D__UVISION_VERSION="529" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
+-o .\objects\init.o --omf_browse .\objects\init.crf --depend .\objects\init.d "Init.c"
