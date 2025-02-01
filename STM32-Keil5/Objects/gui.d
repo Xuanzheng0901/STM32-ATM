@@ -1,7 +1,7 @@
 .\objects\gui.o: Interact\GUI.c
 .\objects\gui.o: .\Start\stm32f10x.h
 .\objects\gui.o: .\Start\core_cm3.h
-.\objects\gui.o: F:\c51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gui.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\gui.o: .\Start\system_stm32f10x.h
 .\objects\gui.o: .\User\stm32f10x_conf.h
 .\objects\gui.o: .\Libraries\stm32f10x_adc.h
@@ -32,5 +32,5 @@
 .\objects\gui.o: .\Hardware\OLED.h
 .\objects\gui.o: .\Account\User.h
 .\objects\gui.o: Interact\GUI.h
-.\objects\gui.o: F:\c51\ARM\ARMCC\Bin\..\include\string.h
-.\objects\gui.o: F:\c51\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\gui.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gui.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h

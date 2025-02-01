@@ -1,7 +1,7 @@
 .\objects\timer.o: Hardware\Timer.c
 .\objects\timer.o: .\Start\stm32f10x.h
 .\objects\timer.o: .\Start\core_cm3.h
-.\objects\timer.o: F:\c51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timer.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\timer.o: .\Start\system_stm32f10x.h
 .\objects\timer.o: .\User\stm32f10x_conf.h
 .\objects\timer.o: .\Libraries\stm32f10x_adc.h
@@ -30,5 +30,5 @@
 .\objects\timer.o: .\Libraries\misc.h
 .\objects\timer.o: Hardware\OLED.h
 .\objects\timer.o: Hardware\USART.h
-.\objects\timer.o: F:\c51\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\timer.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\timer.o: .\User\Delay.h

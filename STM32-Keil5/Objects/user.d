@@ -1,7 +1,7 @@
 .\objects\user.o: Account\User.c
 .\objects\user.o: .\Start\stm32f10x.h
 .\objects\user.o: .\Start\core_cm3.h
-.\objects\user.o: F:\c51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\user.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\user.o: .\Start\system_stm32f10x.h
 .\objects\user.o: .\User\stm32f10x_conf.h
 .\objects\user.o: .\Libraries\stm32f10x_adc.h
@@ -30,8 +30,8 @@
 .\objects\user.o: .\Libraries\misc.h
 .\objects\user.o: Account\User.h
 .\objects\user.o: .\Hardware\USART.h
-.\objects\user.o: F:\c51\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\user.o: F:\c51\ARM\ARMCC\Bin\..\include\String.h
+.\objects\user.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\user.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\String.h
 .\objects\user.o: .\Hardware\OLED.h
-.\objects\user.o: F:\c51\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\user.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\user.o: .\User\Delay.h

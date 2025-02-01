@@ -1,7 +1,7 @@
 .\objects\keyboard.o: Hardware\Keyboard.c
 .\objects\keyboard.o: .\Start\stm32f10x.h
 .\objects\keyboard.o: .\Start\core_cm3.h
-.\objects\keyboard.o: F:\c51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\keyboard.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\keyboard.o: .\Start\system_stm32f10x.h
 .\objects\keyboard.o: .\User\stm32f10x_conf.h
 .\objects\keyboard.o: .\Libraries\stm32f10x_adc.h

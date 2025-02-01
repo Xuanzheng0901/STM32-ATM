@@ -1,7 +1,7 @@
 .\objects\oled.o: Hardware\oled.c
 .\objects\oled.o: .\Start\stm32f10x.h
 .\objects\oled.o: .\Start\core_cm3.h
-.\objects\oled.o: F:\c51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\oled.o: .\Start\system_stm32f10x.h
 .\objects\oled.o: .\User\stm32f10x_conf.h
 .\objects\oled.o: .\Libraries\stm32f10x_adc.h
@@ -29,4 +29,4 @@
 .\objects\oled.o: .\Libraries\stm32f10x_wwdg.h
 .\objects\oled.o: .\Libraries\misc.h
 .\objects\oled.o: Hardware\OLED_Font.h
-.\objects\oled.o: F:\c51\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\oled.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h

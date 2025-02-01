@@ -1,7 +1,7 @@
 .\objects\main.o: User\main.c
 .\objects\main.o: .\Start\stm32f10x.h
 .\objects\main.o: .\Start\core_cm3.h
-.\objects\main.o: F:\c51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: .\Start\system_stm32f10x.h
 .\objects\main.o: .\User\stm32f10x_conf.h
 .\objects\main.o: .\Libraries\stm32f10x_adc.h
@@ -31,11 +31,11 @@
 .\objects\main.o: .\Hardware\OLED.h
 .\objects\main.o: .\Hardware\GPIO.h
 .\objects\main.o: .\Hardware\USART.h
-.\objects\main.o: F:\c51\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\main.o: User\Delay.h
 .\objects\main.o: .\Account\User.h
 .\objects\main.o: .\Interact\GUI.h
 .\objects\main.o: .\Hardware\Keyboard.h
 .\objects\main.o: .\Hardware\Timer.h
-.\objects\main.o: F:\c51\ARM\ARMCC\Bin\..\include\string.h
-.\objects\main.o: F:\c51\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\main.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: F:\Program Files (x86)\IDEs\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
